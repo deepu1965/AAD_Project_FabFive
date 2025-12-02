@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+ENV/
+venv/
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+.ipynb_checkpoints/
+
+# Local test artifacts
+results/test_*.csv
